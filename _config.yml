@@ -3,7 +3,7 @@ author: Frank's human
 markdown: redcarpet
 pygments: true
 baseurl:
-description: theme for jekyll
+description: 
 github: http://www.github.com/arnp
 twitter: http://www.twitter.com/
 facebook: http://www.facebook.com
@@ -12,5 +12,4 @@ email: rnpatel[at]me.com
 location: 42°2'16"N   70°12'47"W
 disqus: diqus-username
 
-##Make sure to edit the above fields, especially for disqus.
-
+##Make sure to edit the above fields, especially for disqus
