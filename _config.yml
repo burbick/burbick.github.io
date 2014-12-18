@@ -1,8 +1,8 @@
-name: Herring Cove
-author: Herring Cove
+name: To Be Frank	
+author: Frank's human
 markdown: redcarpet
 pygments: true
-baseurl: /herring-cove
+baseurl:
 description: theme for jekyll
 github: http://www.github.com/arnp
 twitter: http://www.twitter.com/
